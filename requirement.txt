@@ -1,3 +1,5 @@
 streamlit
-math
 mgrs
+numpy
+matplotlib
+pandas
