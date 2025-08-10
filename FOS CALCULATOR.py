@@ -71,7 +71,7 @@ def format_10fig_from_full(easting, northing):
     return f"{e5} {n5}"
 
 # ---------- Streamlit UI ----------
-st.title("FOS Calculator — UTM 10-figure input (5E + 5N)")
+st.title("AGNIBAAN TARGET ACQUISITION & CORRECTION SYS")
 
 st.markdown("""
 **Instructions**
