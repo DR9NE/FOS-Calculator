@@ -3,7 +3,7 @@ import streamlit as st
 import math
 import utm
 
-st.set_page_config(page_title="FOS Calculator (UTM 10-figure input)", layout="centered")
+st.set_page_config(page_title="ATACS", layout="centered")
 
 # ---------- small math / geo helpers ----------
 def deg2rad(d): return d * math.pi / 180.0
